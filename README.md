@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Jogo da Velha 
 
 Bem-vindo ao repositório do Jogo da Velha! Este é um jogo simples implementado utilizando HTML, CSS e JavaScript. O objetivo é fornecer uma experiência básica de jogo da velha jogável diretamente no seu navegador.
 
